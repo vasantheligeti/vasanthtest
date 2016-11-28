@@ -1,6 +1,6 @@
 ---
 applications:
-- name: rails-sample
+- name: rails
   random-route: true
   memory: 256M
   instances: 1
